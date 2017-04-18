@@ -2,5 +2,5 @@
 
 Hi, there.
 Starting github.
-![alt text](screenshots/filename.png "Description goes here")
+![alt text](start.png "Just the beginning.")
 Here some text.
